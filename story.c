@@ -53,6 +53,7 @@ int main( void )
     szz63one();
     hagd5dSentence1();
     cjan8cSentenceOne();
+    cehxc5Sentence1();
     sskgz8sentence1();
     mtrmt9Second();
     jah3xc_sentence1();
@@ -129,6 +130,7 @@ int main( void )
     aupkbdsentence2();
     xwq58Second();
     twv8f9Sentence2();
+    cehxc5Sentence2();
     // DO NOT ADD AFTER THIS COMMENT
     // Bens sentence should be last.
     bensSentence_FINAL();
